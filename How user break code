@@ -1,0 +1,4 @@
+Let’s say the inflamation scale in the data set we used earlier inflammation-01.csv actually starts at 1 for no inflamation and the zero values (0) 
+were a missed observation. Looking at the ?read.csv help page is there an argument we could use to ensure all zeros (0) are read in as NA? Perhaps,
+in the car-speeds.csv data contains mistakes and the person measuring the car speeds could not accurately distinguish between “Black or “Blu
+Changing code in one place all too often breaks code in a (seemingly) unrelated place. No matter how experienced you might be: you won't be able to predict the possible side effects that code changes can have. That's what gives our jobs that "thrilling touch"... Back your code with automated tests!
